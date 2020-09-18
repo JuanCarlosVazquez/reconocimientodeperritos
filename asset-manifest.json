@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reconocimientodeperritos/static/css/main.48b53571.chunk.css",
+    "main.js": "/reconocimientodeperritos/static/js/main.22595cab.chunk.js",
+    "main.js.map": "/reconocimientodeperritos/static/js/main.22595cab.chunk.js.map",
+    "runtime-main.js": "/reconocimientodeperritos/static/js/runtime-main.8562b609.js",
+    "runtime-main.js.map": "/reconocimientodeperritos/static/js/runtime-main.8562b609.js.map",
+    "static/js/2.3b4e8fe3.chunk.js": "/reconocimientodeperritos/static/js/2.3b4e8fe3.chunk.js",
+    "static/js/2.3b4e8fe3.chunk.js.map": "/reconocimientodeperritos/static/js/2.3b4e8fe3.chunk.js.map",
+    "index.html": "/reconocimientodeperritos/index.html",
+    "precache-manifest.254284e5d4834ec06344e30937fc918b.js": "/reconocimientodeperritos/precache-manifest.254284e5d4834ec06344e30937fc918b.js",
+    "service-worker.js": "/reconocimientodeperritos/service-worker.js",
+    "static/css/main.48b53571.chunk.css.map": "/reconocimientodeperritos/static/css/main.48b53571.chunk.css.map",
+    "static/js/2.3b4e8fe3.chunk.js.LICENSE.txt": "/reconocimientodeperritos/static/js/2.3b4e8fe3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8562b609.js",
+    "static/js/2.3b4e8fe3.chunk.js",
+    "static/css/main.48b53571.chunk.css",
+    "static/js/main.22595cab.chunk.js"
+  ]
+}
